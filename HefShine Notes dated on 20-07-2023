@@ -1,1 +1,11 @@
-
+Q.   what is Operator Precedence in java ?
+ANS. It is the Order in which The Operators are evaluted then an expression is evaluated.
+      
+        Order of Precedence is as follows(Top To Bottom.)
+                Parenthesis                 ->       ()
+                Uniry Operators              ->     ++ -- !
+                Multiplication and Division  ->     * /  %
+                Addition and Subtraction    ->       + -
+                Relational Operators        ->        < > <= >= == !=
+                Logical Operators           ->        &&(Logical AND)
+                                                      || (Logical OR)
