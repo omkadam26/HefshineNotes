@@ -1,0 +1,9 @@
+Q. what is the Object?
+
+    is an instance of class
+    each object has an identity,state nd behaviours
+    state is stored in fields while methods display object's behaviours
+    represent physical entity
+
+Q. how are object created?
+    an object is an instance of a class. It is created using the new Keyword.
